@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^agustingiannastasio.com [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.agustingiannastasio.com [NC]
+RewriteRule ^(.*)$ http://ag.uy/$1 [L,R=301,NC]

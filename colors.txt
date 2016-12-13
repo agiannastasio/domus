@@ -1,0 +1,7 @@
+/*
+blue: #2C3E50;
+black: #333;
+white: #FAFAFA;
+yellow: #E09F3E;
+red: #9E2A2B;
+*/
